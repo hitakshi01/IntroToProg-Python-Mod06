@@ -1,0 +1,6 @@
+Shopping,High
+Learning Python,Low
+Netflix and Chill,High
+Baking,High
+Reading,Low
+Travelling,High
